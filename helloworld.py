@@ -1,1 +1,2 @@
-print(first comment)
+print("first comment")
+print("zd druzi")
